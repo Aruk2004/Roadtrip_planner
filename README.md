@@ -109,6 +109,4 @@ Do **not** commit your `.env` file or any files containing secrets or user data.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+ 
