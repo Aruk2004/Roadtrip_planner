@@ -80,7 +80,3 @@ Security & Privacy
 ------------------
 - Do NOT commit your `.env` file or any files containing secrets or user data.
 - Use the provided `.gitignore` to avoid committing sensitive files.
-
-License
--------
-This project is licensed under the MIT License. 
